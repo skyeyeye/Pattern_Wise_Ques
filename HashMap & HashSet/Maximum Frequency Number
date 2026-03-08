@@ -1,0 +1,20 @@
+int maximumFrequency(vector<int> &arr, int n)
+{
+    unordered_map<int,int> count;
+
+    for(int i = 0; i < n; i++){
+        count[arr[i]]++;
+    }
+
+    int maxi = 0;
+    int ans = arr[0];
+
+    for(int i = 0; i < n; i++){
+        if(count[arr[i]] > maxi){
+            maxi = count[arr[i]];
+            ans = arr[i];
+        }
+    }
+
+    return ans;
+}
