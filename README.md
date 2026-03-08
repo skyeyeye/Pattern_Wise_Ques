@@ -6,7 +6,7 @@ The goal of this repository is to strengthen **Data Structures and Algorithms fu
 I am solving the problems topic-wise and documenting optimized approaches and clean implementations.
 
 📄 **Original Sheet:**  
-https://www.geeksforgeeks.org/dsa/dsa-sheet-by-love-babbar/#arrays
+https://www.geeksforgeeks.org/dsa/dsa-sheet-by-love-babbar/
 
 The Love Babbar DSA sheet contains **450 important coding problems** covering major DSA concepts like Arrays, Strings, Trees, Graphs, Dynamic Programming, and more. It is widely used for **technical interview preparation**.
 
